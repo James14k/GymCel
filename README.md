@@ -173,7 +173,7 @@ GymCel/
 
 1. **Clonar el repositorio**
    ```bash
-   git clone <url-del-repositorio>
+   git clone https://github.com/James14k/GymCel.git
    cd GymCel
    ```
 
@@ -324,7 +324,7 @@ Para contribuir al proyecto:
 
 ## 👥 Autor
 
-Desarrollado para DUOC UC
+Hawk Durant
 
 ## 🔗 Recursos Adicionales
 
